@@ -12,11 +12,11 @@ Objective is to **Clone a python repo and execute its code**.
 
 `py -m venv venv`
 
-3. activate the virtual environement 
+3. activate the virtual environment
 
 `.\venv\Script\activate`
 
-4. install repo packages 
+4. install repo packages
 
 `pip install -r requirement.txt`
 
@@ -25,4 +25,4 @@ Objective is to **Clone a python repo and execute its code**.
 
 Et Voilà! you can run python script
 
-`py .\m_pack\script_1.py` 
+`py .\m_pack\script_1.py`
